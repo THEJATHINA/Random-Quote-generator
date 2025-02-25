@@ -4,7 +4,16 @@ const quotes = [
   { text: "The only limit to our realization of tomorrow is our doubts of today.", author: "Franklin D. Roosevelt" },
   { text: "Do what you can, with what you have, where you are.", author: "Theodore Roosevelt" },
   { text: "The best time to plant a tree was 20 years ago. The second best time is now.", author: "Chinese Proverb" },
-  { text: "Success is not final, failure is not fatal: It is the courage to continue that counts"}
+  { text: "Success is not final, failure is not fatal: It is the courage to continue that counts"},
+  { text: "The only thing we have to fear is fear itself.", author: "Franklin D. Roosevelt" },
+  { text: "It does not matter how slowly you go as long as you do not stop.", author: "Confucius" },
+  { text: "The only way to do great work is to love what you do.", author: "Steve Jobs" },
+  { text: "The best preparation for tomorrow is doing your best today.", author: "H. Jackson Brown Jr." },
+  { text: "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.", author: "Helen Keller" },
+  { text: "The future belongs to those who believe in the beauty of their dreams.", author: "Eleanor Roosevelt" },
+  { text: "The greatest glory in living lies not in never falling, but in rising every time we fall.", author: "Nelson Mandela" },
+  { text: "The way to get started is to quit talking and begin doing.", author: "Walt Disney" },
+  { text: "Your time is limited, so don't waste it living someone else's life.", author: "Steve Jobs" }
 ];
 
 const quoteElement = document.getElementById('quote');
