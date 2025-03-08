@@ -1,4 +1,4 @@
-# Random-Quote-generator_CodeAlpha_Task2
+# Random-Quote-generator
 # Description
     
     It is a random quotes generator app, which displays random quotes when clicked . The quote generated can also be listened and shared across social media.
