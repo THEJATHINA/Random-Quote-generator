@@ -17,6 +17,6 @@
 
 # How to use
 
-   * Clone the repository(https://github.com/THEJATHINA/Random-Quote-generator_CodeAlpha_Task2).
+   * Clone the repository(https://github.com/THEJATHINA/Random-Quote-generator).
    * Open the index.html file in web to use the app.
  
